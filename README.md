@@ -1,4 +1,5 @@
-- 👋 Hi, I’m junaid iqbal from muzaffargarh multan pakistan and currently working at FHA Technology Rawalpindi.
+- 👋 Hi, I’m junaid iqbal from  multan pakistan having experience in android developer at FHA Technology Rawalpindi. Now i am working as a CEO at ITzoon Technology Multan.
+
 - 👀 I’m interested in learning new things of android developement.
 - 🌱 I’m currently learning in android java and kotlin
 - 💞️ I’m looking to collaborate on ...
